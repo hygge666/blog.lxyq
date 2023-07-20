@@ -3175,10 +3175,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://img01.anzhiy.cn/useruploads/156/2023/05/04/6453d2511c53e.jpg);
-    --darkmode-bg:url(https://img01.anzhiy.cn/useruploads/156/2023/05/04/6453d2511c53e.jpg);
-    --mobileday-bg: url(https://img01.anzhiy.cn/useruploads/156/2023/05/04/6453d2511c53e.jpg);
-    --mobilenight-bg: url(https://img01.anzhiy.cn/useruploads/156/2023/05/04/6453d2511c53e.jpg);
+    --default-bg: url(https://img01.anheyu.com/useruploads/156/2023/05/04/6453d2511c53e.jpg);
+    --darkmode-bg:url(https://img01.anheyu.com/useruploads/156/2023/05/04/6453d2511c53e.jpg);
+    --mobileday-bg: url(https://img01.anheyu.com/useruploads/156/2023/05/04/6453d2511c53e.jpg);
+    --mobilenight-bg: url(https://img01.anheyu.com/useruploads/156/2023/05/04/6453d2511c53e.jpg);
   }`;
 }
 // 切换背景主函数
